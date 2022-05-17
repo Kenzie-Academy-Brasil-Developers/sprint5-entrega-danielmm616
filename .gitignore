@@ -1,0 +1,9 @@
+node_modules
+.env
+controllers
+entities
+interfaces
+middlewares
+migrations
+routes
+services
